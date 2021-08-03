@@ -1,5 +1,6 @@
 # loan-prediction
 This project was a practice problem on analytics vidhya to predict the loan eligbilty for a finance company and got accuracy score of 0.71
+
 two datasets - train.csv and test.csv
 Data Dictionary
 Train file: CSV containing the customers for whom loan eligibility is known as 'Loan_Status'
