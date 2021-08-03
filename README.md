@@ -36,3 +36,5 @@ Loan_Amount_Term-Term of loan in months,
 Credit_History-credit history meets guidelines,
 Property_Area-Urban/ Semi Urban/ Rural.
 
+after seeing review my project via my emai: duraiprasanth2@gmail.com
+provide me other technques to increase prediction accuracy
